@@ -21,7 +21,7 @@ namespace MsTest
             obj.Nome = "Sérgio";
             obj.Apelido = "Fontes";
 
-            Assert.IsFalse(obj.GetNomeCompleto() == "Sandrio Fontes");
+            Assert.IsFalse(obj.GetNomeCompleto() == "Sérgio Fontes");
         }
 
         [TestMethod, TestCategory("CategoriaV"), Priority(2)]
