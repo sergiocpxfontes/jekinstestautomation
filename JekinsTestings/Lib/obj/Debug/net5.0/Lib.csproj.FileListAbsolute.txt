@@ -1,0 +1,12 @@
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\bin\Debug\net5.0\Lib.deps.json
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\bin\Debug\net5.0\Lib.dll
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\bin\Debug\net5.0\ref\Lib.dll
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\bin\Debug\net5.0\Lib.pdb
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\obj\Debug\net5.0\Lib.csproj.AssemblyReference.cache
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\obj\Debug\net5.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\obj\Debug\net5.0\Lib.AssemblyInfoInputs.cache
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\obj\Debug\net5.0\Lib.AssemblyInfo.cs
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\obj\Debug\net5.0\Lib.csproj.CoreCompileInputs.cache
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\obj\Debug\net5.0\Lib.dll
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\obj\Debug\net5.0\ref\Lib.dll
+D:\Projects\Academia2020A\DeploymentAutomation_112021\code\JekinsTestings\Lib\obj\Debug\net5.0\Lib.pdb
