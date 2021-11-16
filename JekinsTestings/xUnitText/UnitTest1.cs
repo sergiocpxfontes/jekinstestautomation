@@ -17,6 +17,18 @@ namespace xUnitText
             Assert.True(obj.GetNomeCompleto() == "Sérgio Fontes");
         }
 
+        [Fact]
+        public void Teste_MaiorDeIDade_Verdadeiro()
+        {
+            Individuo obj = new Individuo();
+            obj.Nome = "Sérgio";
+            obj.Apelido = "Fontes";
+            obj.DataNascimento = new DateTime(1976, 8, 25);
+
+            MyXUnit.MaiorDeIdade(obj.GetIdade(), 18);
+        }
+
+
         [Theory]
         [InlineData("João", "Silva", "João Silva")]
         [InlineData("Pedro", "Sequeira", "Pedro Sequeira")]
